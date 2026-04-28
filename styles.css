@@ -120,6 +120,13 @@ header a { color: white; }
   font-weight: 700;
   text-decoration: none;
 }
+.brand-flower {
+  display: inline-block;
+  width: 0.85em;
+  height: 0.85em;
+  vertical-align: -0.1em;
+  margin: 0 0.1em;
+}
 header nav {
   margin-top: 1rem;
   display: flex;
